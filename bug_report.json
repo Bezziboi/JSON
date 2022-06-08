@@ -14,8 +14,8 @@
   "STR2": "Navigate to the Users Menu -> New User",
   "STR3": "Filled out all the user information fields",
   "STR4": "Clicked on the ‘Save’ button",
-  "STR5": "Seen an error page “ORA1090 Exception: Insert values Error…",
+  "STR5": "Seen an error page 'ORA1090 Exception: Insert values Error…'",
   "STR6": "See the attached logs for more information (Attach more logs related to the bug..IF any)",
   "STR7": "Also see the attached screenshot of the error page",
-  "Expected Result": "On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”"
+  "Expected Result": "On clicking the SAVE button, you should be prompted to a successful message 'New User has been created successfully'"
 }
