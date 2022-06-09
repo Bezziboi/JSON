@@ -6,6 +6,8 @@
   "Severiy": "High",
   "Priority": "High",
   "Assignet to": "Developer-name",
+  "Reported By": "Bezirgen",
+  "Reported On": "09-June-2022",
   "Reason": "Defect",
   "Status": "New/Open/Active(Depends on the Tool you are using)",
   "Environment": "Windows 10",
